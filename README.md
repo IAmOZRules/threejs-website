@@ -4,8 +4,8 @@ A Simple Portfolio website template with 3D Animations created using VanillaJS a
 
 ## Usage
 
-1. Clone this repository
+1. Clone this repository.
 2. Install all dependencies using ```npm i```.
 3. Run the website using ```npm run dev```.
 
-This was made using [Fireship's 3.js Tutorial](https://youtu.be/Q7AOvWpIVHU)
+This mini-project was made with [Fireship's 3.js Tutorial](https://youtu.be/Q7AOvWpIVHU) as the inspiration.
