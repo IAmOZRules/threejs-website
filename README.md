@@ -4,7 +4,7 @@ A Simple Portfolio website template with 3D Animations created using VanillaJS a
 
 ## Usage
 
-1. Clone this repository.
+1. Clone this repository using ```git clone https://github.com/IAmOZRules/threejs-website.git```.
 2. Install all dependencies using ```npm i```.
 3. Run the website using ```npm run dev```.
 
