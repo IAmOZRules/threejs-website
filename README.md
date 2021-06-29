@@ -1,12 +1,11 @@
 # Scrollable 3D Animation with Three.js
 
-- Watch the [full tutorial](https://youtu.be/Q7AOvWpIVHU) on YouTube
-- [Scrollable Three.js Animation](https://fireship.io/snippets/threejs-scrollbar-animation) Snippet
+A Simple Portfolio website template with 3D Animations created using VanillaJS and 3.js!
 
 ## Usage
 
-```
-git clone <this-repo>
-npm install
-npm run dev
-```
+1. Clone this repository
+2. Install all dependencies using ```npm i```.
+3. Run the website using ```npm run dev```.
+
+This was made using [Fireship's 3.js Tutorial](https://youtu.be/Q7AOvWpIVHU)
